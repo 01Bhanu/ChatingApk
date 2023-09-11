@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805027966244",
+    "project_id": "chatingapk-1b5ce",
+    "storage_bucket": "chatingapk-1b5ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805027966244:android:e5ef9ad7bb23c6fc3bd7b1",
+        "android_client_info": {
+          "package_name": "com.example.chatingapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805027966244-p5sa1esubo0la8i2uopq9sdsv4hq9g1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxXrfn-IRBIMMwrYqwoCMf8f2W-mmEsmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805027966244-p5sa1esubo0la8i2uopq9sdsv4hq9g1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
